@@ -54,11 +54,11 @@
 
 #### 方法一：使用启动脚本（推荐）
 
-直接双击运行 `run_operator.bat` 文件，程序将自动启动。
+克隆源码后直接双击运行 `run_operator.bat` 文件，程序将自动启动。
 
 #### 方法二：命令行启动
 
-1. 打开命令提示符（CMD）
+1. 克隆源码后打开命令提示符（CMD）
 2. 导航到程序所在目录
    ```bash
    cd path\to\Interesting-Delta-Action-Login-System
